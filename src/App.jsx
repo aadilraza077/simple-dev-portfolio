@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import { Github, Linkedin, Mail, Twitter, Link as LinkIcon } from 'lucide-react';
 import './App.css';
 
